@@ -31,7 +31,9 @@
 Репозиторий для хранения скриптов https://github.com/prof-bykov/R_for_socsci
 
 ## Простейшие графики
-fdsf
+
+скоро
 
 ## Литература
+
 Шипунов https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf
