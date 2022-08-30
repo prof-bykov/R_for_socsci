@@ -14,6 +14,7 @@
 - Open Source (не SPSS)
 - Большое разнообразие прикладных пакетов (не Excel)
 - Больше статистики, меньше программирования (не Python)
+
 **Установка (Windows)**
 - https://cran.r-project.org/ 
 - https://www.rstudio.com/
