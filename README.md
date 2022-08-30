@@ -19,6 +19,12 @@
 - https://cran.r-project.org/ 
 - https://www.rstudio.com/
 
+**Скрипты**
+Скрипт - это файл с последовательностью команд языка R, выполняющей определенные действия. 
+
+**Github**
+https://github.com/prof-bykov/R_for_socsci
+
 ## Простейшие графики
 fdsf
 
