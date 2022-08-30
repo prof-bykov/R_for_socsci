@@ -27,7 +27,8 @@
 Скрипт - это файл с последовательностью команд языка R, выполняющей определенные действия. 
 
 **Github**
-https://github.com/prof-bykov/R_for_socsci
+
+Репозиторий для хранения скриптов https://github.com/prof-bykov/R_for_socsci
 
 ## Простейшие графики
 fdsf
