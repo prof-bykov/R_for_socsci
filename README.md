@@ -19,8 +19,8 @@
 
 **Установка (Windows)**
 
-- https://cran.r-project.org/ 
-- https://www.rstudio.com/
+- [https://cran.r-project.org/](https://cran.r-project.org/)
+- [https://www.rstudio.com/](https://www.rstudio.com/)
 
 **Скрипты**
 
@@ -28,7 +28,7 @@
 
 **Github**
 
-Репозиторий для хранения скриптов https://github.com/prof-bykov/R_for_socsci
+Репозиторий для хранения скриптов [https://github.com/prof-bykov/R_for_socsci](https://github.com/prof-bykov/R_for_socsci)
 
 ## Простейшие графики
 
